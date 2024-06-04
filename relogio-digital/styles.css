@@ -1,0 +1,23 @@
+/* Estilos para o Relógio Digital */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.clock-container {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    display: inline-block;
+}
+
+.clock {
+    font-size: 2rem;
+}
